@@ -42,6 +42,7 @@ I enjoy understanding not only *how* things work, but also **what happens under 
 
 **Messaging & Observability**
 `RabbitMQ` · `Prometheus` · `Grafana` · `Loki` · `Tempo` · `OpenTelemetry`
+
 ---
 
 ### 💭
