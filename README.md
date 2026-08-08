@@ -1,5 +1,35 @@
-Hi I'm Wael Benslimene <br/>
-I am a competitive programmer , I participated in many contests such as TCPC2k23 and the TCPC2k24 .<br/>
-I love combinig data structures and using complex algorithms to solve difficult problems .<br/>
-I am interested in software engineering where I can invent applications that solve real life<br/>
-problems and save time for human tasks .<br/>
+Hi, I'm Wael 👋
+Software Engineering Student | Backend Developer | Distributed Systems Enthusiast
+
+I'm a Software Engineering student from Tunisia passionate about building backend systems, distributed applications, and scalable infrastructure.
+
+I enjoy understanding not only how things work, but also what happens under the hood — from HTTP requests and authentication to message brokers, Kubernetes scheduling, caching, and distributed workers.
+
+🚀 What I'm Working On
+
+🔹 Building distributed systems and microservices with .NET
+🔹 Learning and experimenting with Kubernetes, container orchestration, and autoscaling
+🔹 Designing event-driven architectures using RabbitMQ
+🔹 Working with PostgreSQL, EF Core, Redis, and distributed caching
+🔹 Exploring observability with Prometheus, Grafana, Loki, and Tempo
+🔹 Building systems involving real-time data and concurrent processing
+🔹 Improving my competitive programming skills
+
+🛠️ Tech Stack
+
+Backend: C# · .NET · ASP.NET Core · EF Core · GraphQL · gRPC
+
+Frontend: React · TypeScript · Vite · Material UI
+
+Databases: PostgreSQL · MySQL · Oracle · Redis
+
+DevOps: Docker · Kubernetes · Helm · GitHub Actions · Azure · Nginx
+
+Messaging & Observability: RabbitMQ · Prometheus · Grafana · Loki · Tempo · OpenTelemetry
+
+📫 Connect With Me
+💼 LinkedIn: [My LinkedIn]
+🏆 Codeforces: [My Codeforces]
+🧑‍💻 GitHub: @Wael-Bns
+
+Build it. Break it. Understand it.
