@@ -42,17 +42,6 @@ I enjoy understanding not only *how* things work, but also **what happens under 
 
 **Messaging & Observability**
 `RabbitMQ` · `Prometheus` · `Grafana` · `Loki` · `Tempo` · `OpenTelemetry`
-
----
-
-## 📫 Connect With Me
-
-💼 **LinkedIn** · [wael-benslimene](https://www.linkedin.com/in/wael-benslimene)
-
-🏆 **Codeforces** · [My Profile](#)
-
-🧑‍💻 **GitHub** · [@Wael-Bns](https://github.com/Wael-Bns)
-
 ---
 
 ### 💭
