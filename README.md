@@ -2,7 +2,7 @@
 
 ### Backend Developer · Distributed Systems Enthusiast
 
-I'm a Software Engineering student from Tunisia passionate about building **backend systems, distributed applications, and scalable infrastructure**.
+I'm a Software Engineering student passionate about building **backend systems, distributed applications, and scalable infrastructure**.
 
 I enjoy understanding not only *how* things work, but also **what happens under the hood** — from HTTP requests and authentication to message brokers, Kubernetes scheduling, caching, and distributed workers.
 
