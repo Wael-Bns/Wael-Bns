@@ -1,35 +1,60 @@
-Hi, I'm Wael 👋
-Software Engineering Student | Backend Developer | Distributed Systems Enthusiast
+# Hi, I'm Wael 👋
 
-I'm a Software Engineering student from Tunisia passionate about building backend systems, distributed applications, and scalable infrastructure.
+### Software Engineering Student · Backend Developer · Distributed Systems Enthusiast
 
-I enjoy understanding not only how things work, but also what happens under the hood — from HTTP requests and authentication to message brokers, Kubernetes scheduling, caching, and distributed workers.
+I'm a Software Engineering student from Tunisia passionate about building **backend systems, distributed applications, and scalable infrastructure**.
 
-🚀 What I'm Working On
+I enjoy understanding not only *how* things work, but also **what happens under the hood** — from HTTP requests and authentication to message brokers, Kubernetes scheduling, caching, and distributed workers.
 
-🔹 Building distributed systems and microservices with .NET
-🔹 Learning and experimenting with Kubernetes, container orchestration, and autoscaling
-🔹 Designing event-driven architectures using RabbitMQ
-🔹 Working with PostgreSQL, EF Core, Redis, and distributed caching
-🔹 Exploring observability with Prometheus, Grafana, Loki, and Tempo
-🔹 Building systems involving real-time data and concurrent processing
-🔹 Improving my competitive programming skills
+---
 
-🛠️ Tech Stack
+## 🚀 What I'm Working On
 
-Backend: C# · .NET · ASP.NET Core · EF Core · GraphQL · gRPC
+🔹 Building **distributed systems and microservices** with .NET
 
-Frontend: React · TypeScript · Vite · Material UI
+🔹 Learning and experimenting with **Kubernetes, container orchestration, and autoscaling**
 
-Databases: PostgreSQL · MySQL · Oracle · Redis
+🔹 Designing **event-driven architectures** using RabbitMQ
 
-DevOps: Docker · Kubernetes · Helm · GitHub Actions · Azure · Nginx
+🔹 Working with **PostgreSQL, EF Core, Redis, and distributed caching**
 
-Messaging & Observability: RabbitMQ · Prometheus · Grafana · Loki · Tempo · OpenTelemetry
+🔹 Exploring **observability** with Prometheus, Grafana, Loki, and Tempo
 
-📫 Connect With Me
-💼 LinkedIn: [My LinkedIn]
-🏆 Codeforces: [My Codeforces]
-🧑‍💻 GitHub: @Wael-Bns
+🔹 Building systems involving **real-time data and concurrent processing**
 
-Build it. Break it. Understand it.
+🔹 Improving my **competitive programming** skills
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Backend**
+`C#` · `.NET` · `ASP.NET Core` · `EF Core` · `GraphQL` · `gRPC`
+
+**Frontend**
+`React` · `TypeScript` · `Vite` · `Material UI`
+
+**Databases**
+`PostgreSQL` · `MySQL` · `Oracle` · `Redis`
+
+**DevOps & Cloud**
+`Docker` · `Kubernetes` · `Helm` · `GitHub Actions` · `Azure` · `Nginx`
+
+**Messaging & Observability**
+`RabbitMQ` · `Prometheus` · `Grafana` · `Loki` · `Tempo` · `OpenTelemetry`
+
+---
+
+## 📫 Connect With Me
+
+💼 **LinkedIn** · [wael-benslimene](https://www.linkedin.com/in/wael-benslimene)
+
+🏆 **Codeforces** · [My Profile](#)
+
+🧑‍💻 **GitHub** · [@Wael-Bns](https://github.com/Wael-Bns)
+
+---
+
+### 💭
+
+> **Build it. Break it. Understand it.**
