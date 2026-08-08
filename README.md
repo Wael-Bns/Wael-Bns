@@ -1,6 +1,6 @@
 # Hi, I'm Wael 👋
 
-### Software Engineering Student · Backend Developer · Distributed Systems Enthusiast
+### Backend Developer · Distributed Systems Enthusiast
 
 I'm a Software Engineering student from Tunisia passionate about building **backend systems, distributed applications, and scalable infrastructure**.
 
@@ -10,7 +10,7 @@ I enjoy understanding not only *how* things work, but also **what happens under 
 
 ## 🚀 What I'm Working On
 
-🔹 Building **distributed systems and microservices** with .NET
+🔹 Building **distributed systems and microservices**
 
 🔹 Learning and experimenting with **Kubernetes, container orchestration, and autoscaling**
 
@@ -23,28 +23,3 @@ I enjoy understanding not only *how* things work, but also **what happens under 
 🔹 Building systems involving **real-time data and concurrent processing**
 
 🔹 Improving my **competitive programming** skills
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Backend**
-`C#` · `.NET` · `ASP.NET Core` · `EF Core` · `GraphQL` · `gRPC`
-
-**Frontend**
-`React` · `TypeScript` · `Vite` · `Material UI`
-
-**Databases**
-`PostgreSQL` · `MySQL` · `Oracle` · `Redis`
-
-**DevOps & Cloud**
-`Docker` · `Kubernetes` · `Helm` · `GitHub Actions` · `Azure` · `Nginx`
-
-**Messaging & Observability**
-`RabbitMQ` · `Prometheus` · `Grafana` · `Loki` · `Tempo` · `OpenTelemetry`
-
----
-
-### 💭
-
-> **Build it. Break it. Understand it.**
