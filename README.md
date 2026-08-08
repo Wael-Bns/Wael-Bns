@@ -14,7 +14,7 @@ I enjoy understanding not only *how* things work, but also **what happens under 
 
 🔹 Learning and experimenting with **Kubernetes, container orchestration, and autoscaling**
 
-🔹 Designing **event-driven architectures** using RabbitMQ
+🔹 Designing **event-driven architectures** 
 
 🔹 Working with **PostgreSQL, EF Core, Redis, and distributed caching**
 
