@@ -1,6 +1,4 @@
-# Welcome 👋
-
-### Backend Developer · Distributed Systems Enthusiast
+# Welcome 
 
 I'm a Software Engineering student passionate about building **backend systems, distributed applications, and scalable infrastructure**.
 
